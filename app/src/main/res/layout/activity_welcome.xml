@@ -19,7 +19,7 @@
         android:layout_margin="20dp"
         android:background="@color/purple_200"
         android:textColor="@color/black"
-        android:text="Shopping Hub" />
+        android:text="My Shopping Application" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/MyrecyclerView"
